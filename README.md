@@ -1,4 +1,4 @@
-<center><img src="../image/logo.png" alt="logo"></center>
+<center><img src="https://raw.githubusercontent.com/yizhexu/GeoConversion/master/image/logo.png" alt="logo"></center>
 <center><h2>Convert Georeferenced Data</h2></center>
 <center><p> by <a href="http://www.awhere.com/services-and-support/professional-services" target="_blank">aWhere Professional Service</a></p><br></center>
 
@@ -30,11 +30,11 @@ A Pprojected coordinate system is established based on a map projection such as 
 <center><h3>App Screenshots</h3></center>
 aWhere, Latitude is 39°55′30.9742″ N and Longitude is 105°06′16.3199″ W. The converted result shows the place on a map with latitude and longitude in decimal degrees as 39.9252706111111,-105.104533305556. 
 
-<img src="./images/1.PNG" alt="Single Point">
+<img src="https://raw.githubusercontent.com/yizhexu/GeoConversion/master/image/1.PNG" alt="Single Point">
 
 You can also convert a bunch of points by downloading and re-uploading a data template. 
 
-<img src="./images/2.PNG" alt="Multiple Point">
+<img src="https://raw.githubusercontent.com/yizhexu/GeoConversion/master/image/2.PNG" alt="Multiple Point">
 
 <center><h3>Data Requirement</h3></center>
 
